@@ -1,0 +1,11 @@
+{
+  "name": "create_simple_password",
+  "version": "1.0.0",
+  "main": "generateRandomPassword.js",
+  "scripts": {
+    "start": "node generateRandomPassword.js"
+  },
+  "author": "kogalym",
+  "license": "ISC",
+  "description": "A project to learn npm, generate Random Password"
+}
